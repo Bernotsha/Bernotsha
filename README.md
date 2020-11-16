@@ -7,7 +7,7 @@
 
 #### Hi There :wave:
   I'm Bernotsha. I'm an Engineering Graduate specialized in the field of Information Technology. I'have good skills in developing Mobile Applications & Web Applications.
-- 🔭 I’m currently working on Android Application.
+- 🔭 I’m currently working on Android and Web Application.
 - 🌱 I’m currently learning React Js and React Native.
 - 👯 I’m looking to collaborate on Android and Web Projects.
 - 🤔 I’m looking for help with Android Development.
