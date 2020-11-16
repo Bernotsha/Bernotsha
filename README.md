@@ -1,5 +1,4 @@
 # BERNOTSHA 
-##### `HARDWORK NEVER FAILS`
 
 [![Gmail link](https://cdn4.iconfinder.com/data/icons/32_Pixel_Social_Media_Icons_by_leslienayibe/gmail.png)](mailto:bernotsha1999@gmail.com) &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;
 [![Facebook link](https://cdn4.iconfinder.com/data/icons/32_Pixel_Social_Media_Icons_by_leslienayibe/facebook.png)](https://www.facebook.com/shak.sha.58) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -16,5 +15,5 @@
 - 📫 How to reach me: Contact me Directly using this mailid: [bernotsha1999@gmail.com](mailto:bernotsha1999@gmail.com).
 - ⚡ Fun fact: I can code without break.
 
-##### ACHIEVEMENT
-I have created an Android Application CORONA SUPPORT which is used to break the covid chain in our society.
+##### ACHIEVEMENT:-
+I have created an Android Application [CORONA SUPPORT](https://www.thesonagroup.com/blog/corona-scan-and-corona-support-innovative-apps-by-sona-college-of-technology-and-vee-technologies-to-tackle-covid-19.html) which is used to break the covid chain in our society.
