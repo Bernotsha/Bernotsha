@@ -8,11 +8,10 @@
 #### Hi There :wave:
   I'm Bernotsha. I'm an Engineering Graduate specialized in the field of Information Technology. I'have good skills in developing Mobile Applications & Web Applications.
 - 🔭 I’m currently working on Android Application.
-- 🌱 I’m currently learning React Js and React Native
-- 👯 I’m looking to collaborate on Android and Web Projects
-- 🤔 I’m looking for help with Android Development
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🌱 I’m currently learning React Js and React Native.
+- 👯 I’m looking to collaborate on Android and Web Projects.
+- 🤔 I’m looking for help with Android Development.
+- 💬 Ask me about JavaScript Frameworks and Firbase in Android.
+- 📫 How to reach me: Contact me Directly using this mailid: [bernotsha1999@gmail.com](mailto:bernotsha1999@gmail.com)
+- ⚡ Fun fact: I can code without break.
 
