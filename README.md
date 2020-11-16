@@ -16,13 +16,5 @@
 - 📫 How to reach me: Contact me Directly using this mailid: [bernotsha1999@gmail.com](mailto:bernotsha1999@gmail.com).
 - ⚡ Fun fact: I can code without break.
 
-##### SKILLS
-
-* Android
-* Reactjs
-* Nodejs
-* C++
-* Java
-
 ##### ACHIEVEMENT
 I have created an Android Application CORONA SUPPORT which is used to break the covid chain in our society.
