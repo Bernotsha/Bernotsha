@@ -6,7 +6,7 @@
 [![Linked link](https://github.com/paulrobertlloyd/socialmediaicons/blob/main/linkedin-32x32.png?raw=true)](https://www.linkedin.com/in/bernotsha-s-6984a2194)
 
 #### Hi There :wave:
-  I'm Bernotsha. I'm an Engineering Graduate specialized in the field of Information Technology. I'have good skills in developing Mobile Applications & Web Applications.
+ I'm Bernotsha. I'm an Engineering Graduate specialized in the field of Information Technology. I'have good skills in developing Mobile Applications & Web Applications.
 - 🔭 I’m currently working on Android and Web Application.
 - 🌱 I’m currently learning React Js and React Native.
 - 👯 I’m looking to collaborate on Android and Web Projects.
