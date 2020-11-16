@@ -1,5 +1,6 @@
 ## BERNOTSHA
 
+[![DevIncept logo image link](https://w7.pngwing.com/pngs/602/665/png-transparent-in-icon-social-media-linkedin-computer-icons-linkedin-blue-text-trademark-thumbnail.png)](https://devincept.tech/)
 
 - 🔭 I’m currently working on Android Application
 - 🌱 I’m currently learning ...
