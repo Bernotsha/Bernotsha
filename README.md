@@ -12,6 +12,6 @@
 - 👯 I’m looking to collaborate on Android and Web Projects.
 - 🤔 I’m looking for help with Android Development.
 - 💬 Ask me about JavaScript Frameworks and Firbase in Android.
-- 📫 How to reach me: Contact me Directly using this mailid: [bernotsha1999@gmail.com](mailto:bernotsha1999@gmail.com)
+- 📫 How to reach me: Contact me Directly using this mailid: [bernotsha1999@gmail.com](mailto:bernotsha1999@gmail.com).
 - ⚡ Fun fact: I can code without break.
 
